@@ -815,6 +815,12 @@
                     <br />
                 </a>
 	        </td>
+        <td align="center">
+                <a href="https://github.com/Kishan-Patel-dev">
+                    <sub><b>Kishan Patel</b></sub>
+                    <br />
+                </a> 
+        </td>
     </tr>
     </tbody>
 </table>
